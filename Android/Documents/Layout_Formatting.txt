@@ -1,4 +1,8 @@
 This doc contains layout formatting learning resources.
 
-wrap_content vs match_parent
+wrap_content vs match_parent 
+By mkyong | December 15, 2011 | Updated: August 29, 2012
 https://mkyong.com/android/android-wrap_content-and-fill_parent-example/
+
+padding vs margin
+https://stackoverflow.com/questions/21959050/android-beginner-difference-between-padding-and-margin
