@@ -1,0 +1,4 @@
+This doc contains layout formatting learning resources.
+
+wrap_content vs match_parent
+https://mkyong.com/android/android-wrap_content-and-fill_parent-example/
