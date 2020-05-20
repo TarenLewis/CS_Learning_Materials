@@ -6,3 +6,33 @@ https://mkyong.com/android/android-wrap_content-and-fill_parent-example/
 
 padding vs margin
 https://stackoverflow.com/questions/21959050/android-beginner-difference-between-padding-and-margin
+
+Chains
+
+Chains are controlled by attributes set on the head of the chain.
+The head is the element from which the chain was created.
+
+Default behavior of a chain is to spread the elements equally in the available space. By assigning
+weight and bias to elements you can control how they align.
+
+Spread Chain:
+Default, spreads elements equally.
+
+Spread Inside Chain:
+Uses all available space, with the head and tail glued to the parent (or walls)
+eg. ||xx|     |xx|     |xx||
+
+Weighted Chain:
+Uses up all space, and resize elements to fill it based on the values in the layout constraint horizontal weight,
+or layout constraint vertical weight attributes.
+eg. ||xx|xxxxxxx|xxxx||
+
+Packed Chain:
+Uses the minimum space. You can use bias to move the group of elements on an axis.
+eg. |     |xx|xx|xx|     |
+with bias:
+    |  |xx|xx|xx|        |
+
+
+
+
