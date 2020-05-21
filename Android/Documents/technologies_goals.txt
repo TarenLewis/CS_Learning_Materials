@@ -1,0 +1,36 @@
+#This is a doc to keep track of technologies that companies are interested in seeing experience with, in order
+#to pursue internship & employment opportunities. It is a compilation of Kotlin and Android related job requirements 
+# for internships and job postings which seem to be common among companies.
+
+-Experience with Kotlin, and libraries such as RxJava and Retrofit
+-Experience working with remote data via REST and JSON
+-Experience with Android architecture and patterns such as MVVM
+-Strong grasp of Git or other version control tools
+-Have published at least one original Android app
+-Experience with third-party libraries and APIs
+-Solid understanding of the full mobile development life cycle
+-Experience releasing apps on the App Store or Google Play
+-Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+-Experience writing multi-threaded, asynchronous code.
+-Experience working with backend server APIs.
+-Solid UI development and unit testing skills.
+-An understanding of how APIs work and how to integrate with them
+-Understand RESTful API concepts and development.
+-Familiarity with the Agile development process
+-Knowledge about Mobile Broadband and Wi-Fi networks is a big plus
+-You are fluent in at least two programming languages (preferably at least one that is strongly typed).
+-You are genuinely passionate about technology. Maybe that comes in the form of keeping up to date with programming language and framework developers. 
+----Or maybe you have a passion project of your own, whether that comes in the form of an open source project, community involvement and mentorship, 
+----participating in meetups, or something else entirely.
+-Knowledge and understanding of at least one native mobile language, eg. Java, Kotlin, Android Studio, Eclipse. etc
+-Unit-test code for robustness, including edge cases, usability, and general reliability
+-Ability to produce clean, bug-free, maintainable code
+-Familiarity with architectural patterns such as MVVM, MVP
+-Experience writing Bluetooth apps & familiarity with Android's Bluetooth SDK
+-Experience using Map frameworks
+-Knowledge of RxJava and/or Kotlin
+-Strong UI development skills (complex view trees, animations, rendering and strong knowledge of the Android UI kit)
+-Knowledgeable about test driven development (TDD), behavior driven development (BDD) and debugging.
+-experience in popular frameworks such as Google Play services and Firebase
+
+
